@@ -1,5 +1,5 @@
- public function Main()
-    printf("Hello", "My first program")
-  end function
-
-  end class
+ ```javascript
+function test() {
+ console.log("hello world!");
+}
+```
